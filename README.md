@@ -230,7 +230,7 @@ Experiments include:
 For implementation details and results, refer to:
 
 ```text
-notebooks/LSTM/README.md
+LSTM_Experiments_README.md
 ```
 
 ---
