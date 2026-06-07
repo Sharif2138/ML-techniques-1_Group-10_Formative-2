@@ -21,20 +21,6 @@ The project includes:
 
 The primary evaluation metric for this assignment is **Hamming Loss**, where lower values indicate better performance.
 
----
-
-# Project Structure
-
-```text
-.
-├── SDG3_Assignment2.ipynb
-├── train.csv
-├── test.csv
-├── README.md
-└── Report.pdf
-```
-
----
 
 # Requirements
 
