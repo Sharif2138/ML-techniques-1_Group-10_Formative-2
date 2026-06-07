@@ -185,8 +185,7 @@ The repository is organized according to the experimental tracks conducted by di
 ├──Transformers_experiments
 │   ├── Transformer_Experiments.ipynb
 │  ├── Transformer_experiments_README.md
-│
-└── Research_Report.pdf
+
 ```
 
 ---
