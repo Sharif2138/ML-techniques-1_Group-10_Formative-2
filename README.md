@@ -172,18 +172,19 @@ The repository is organized according to the experimental tracks conducted by di
 .
 ├── README.md
 │
-├── Traditional Classical Model experimentation.ipynb
-└── traditionzl_Models_Exp_README.md
+├──Classical_ML_experiments
+│     ├── Traditional Classical Model experimentation.ipynb
+│     └── traditionzl_Models_Exp_README.md
 │
-├── LSTM_Experiments.ipynb
-├── README.md
+├──Recuurent_ML_experiments
+│     ├── LSTM_Experiments.ipynb
+│     ├── LSTM_Experiments_README.md
+│     ├── GRU_Experiments.ipynb
+│    ├── GRU_Experiments_README.md
 │
-
-├── GRU_Experiments.ipynb
-├── README.md
-│
-├── Transformer_Experiments.ipynb
-├── README.md
+├──Transformers_experiments
+│   ├── Transformer_Experiments.ipynb
+│  ├── Transformer_experiments_README.md
 │
 └── Research_Report.pdf
 ```
@@ -209,7 +210,7 @@ Models evaluated include:
 For implementation details, experiments, results, and discussion, refer to:
 
 ```text
-traditionzl_Models_Exp_README.md
+Classical_ML_experiments\traditional_Models_Exp_README.md
 ```
 
 ---
@@ -230,7 +231,7 @@ Experiments include:
 For implementation details and results, refer to:
 
 ```text
-LSTM_Experiments_README.md
+Recurrent_ML_experiments\LSTM_Experiments_README.md
 ```
 
 ---
@@ -251,7 +252,7 @@ Experiments include:
 For implementation details and results, refer to:
 
 ```text
-notebooks/GRU/README.md
+Recurrent_ML_experiments\GRU_Experiments_README.md
 ```
 
 ---
@@ -264,15 +265,15 @@ This experimental track investigates Transformer-based architectures for multi-l
 
 Experiments include:
 
-* Transformer Encoder Models
-* Attention-Based Architectures
+* Pre-trained Transformer Encoder Models
+* Fine tuning Attention-Based Architectures
 * Hyperparameter Optimization
 * Comparative Evaluation
 
 For implementation details and results, refer to:
 
 ```text
-notebooks/Transformer/README.md
+Transformer_experiments\Transformer_experiments_README.md
 ```
 
 ---
@@ -411,7 +412,7 @@ Video_Demo/
 | Ntwari Mike Chris Kevin | Traditional Machine Learning Models |
 | Innocent                | LSTM Experiments                    |
 | Sheryl                  | GRU Experiments                     |
-| Sharif                  | Transformer Experiments             |
+| Sharif Kiviiri          | Transformer Experiments             |
 
 ---
 
