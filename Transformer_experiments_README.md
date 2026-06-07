@@ -70,7 +70,7 @@ We used **Hamming Loss** as our primary metric (lower values are better). We als
 ### Important Discoveries:
 * **Per-Label Threshold (E3):** Finding a unique decision score for each label was the best update. It cut the error rate (Hamming Loss) almost in half from `0.0813` to `0.0430` and gave the highest F1-scores.
 * **Text Length (E2):** Increasing the text length to 512 did not help. It actually made the results slightly worse. This means the most important information for the SDG indicators is at the beginning of the text (within the first 256 words).
-* **Overfitting:** Training for 10 epochs wasnt enough for the model to converge well. Training for 15 epochs with adaptive settings gave much better results.
+* **More training time:** Training for 10 epochs wasnt enough for the model to converge well. Training for 15 epochs with adaptive settings gave much better results.
 
 ---
 
