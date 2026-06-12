@@ -46,7 +46,10 @@ Most dependencies are automatically installed within the notebook.
 
 # Running the Project on Google Colab
 
-## Step 1: Open the Notebook
+
+<a href="https://colab.research.google.com/github/Sharif2138/ML-techniques-1_Group-10_Formative-2/blob/main/Classical_ML_experiments/Traditional_Classical_Model_experimentation.ipynb" target="_parent">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 Open the provided notebook file:
 

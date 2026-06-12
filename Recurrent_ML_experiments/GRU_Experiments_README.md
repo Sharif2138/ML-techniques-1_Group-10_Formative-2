@@ -37,6 +37,11 @@ pip install torch scikit-learn pandas numpy matplotlib seaborn nltk
 ## How to Run
 
 1. Open the notebook in Google Colab
+
+<a href="https://colab.research.google.com/github/Sharif2138/ML-techniques-1_Group-10_Formative-2/blob/main/Recurrent_ML_experiments/GRU_Model_Experiments_.ipynb" target="_parent">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 2. Enable GPU: Runtime → Change runtime type → T4 GPU
 3. Upload Devex_train.csv and Devex_test_questions.csv when prompted
 4. Run all cells from top to bottom

@@ -33,6 +33,11 @@ This project was created and tested using **Google Colab**.
 ## How to Run the Project on Google Colab
 
 ### Step 1: Open the Notebook
+
+<a href="https://colab.research.google.com/github/Sharif2138/ML-techniques-1_Group-10_Formative-2/blob/main/Transformer_experiments/Transformer_experiments_notebook.ipynb" target="_parent">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 Open your notebook file in Google Colab:
 `Transformer_experiments_notebook.ipynb`
 
