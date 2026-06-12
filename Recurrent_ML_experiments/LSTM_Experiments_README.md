@@ -2,6 +2,8 @@
 
 ### LSTM DEEP LEARNING EXPERIMENTS
 
+<a href="https://colab.research.google.com/github/Sharif2138/ML-techniques-1_Group-10_Formative-2/blob/main/LSTM_Model_Experiments.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 ## Project Overview
 
 This project investigates the use of Natural Language Processing (NLP), traditional machine learning, and deep learning techniques for the automatic classification of development-related documents into Sustainable Development Goal 3 (SDG 3) indicators.

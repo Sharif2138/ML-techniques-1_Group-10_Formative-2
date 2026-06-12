@@ -4,6 +4,10 @@ Here it is:
 
 # SDG 3 Indicator Classification — GRU Model Experiments
 
+<a href="https://colab.research.google.com/github/Sharif2138/ML-techniques-1_Group-10_Formative-2/blob/main/Recurrent_ML_experiments/GRU_Model_Experiments_.ipynb" target="_parent">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 ## Overview
 
 This notebook contains the GRU (Gated Recurrent Unit) experiments for the SDG 3 multi-label text classification project. The goal of the project is to build a machine learning system that reads a text document and predicts which of the 27 SDG 3 health indicators are relevant to it.
